@@ -14,7 +14,11 @@
     align-items: center;
 }
 
-.nav-top {
+.section-top:hover{
+    background-color: brown;
+}
+
+.nav-top { 
     width: 50%;
 }
 
